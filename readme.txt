@@ -1,7 +1,8 @@
 AWS CLI Automation
 
-Installation
-pip install inquirer
+Requires Inquirer
+Installation Run:
+    pip install inquirer
 
 For Windows Users
 Up and Down Arrows Might Not Work
